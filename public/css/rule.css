@@ -1,0 +1,26 @@
+/* 1. 폰트 종류 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* 2. 폰트 크기 */
+:root {
+       --font-size-base: 16px; /* 기본 크기 */
+    --font-size-small: 0.875rem; /* 14px */
+    --font-size-medium: 1rem;    /* 16px */
+    --font-size-large: 1.125rem; /* 18px */
+    --font-size-huge: 2.625rem;  /* 42px */}
+
+/* 3. 폰트 굵기 */
+:root {
+    --font-weight-light: 300;
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+}
+
+/* 4.색상 */
+:root {
+    --color-black: #292929;
+    --color-white:#fffff;
+    --color-point-one: #050C9C;
+    --color-point-two:#3ABEF9;
+    --color-point-three:#A7E6FF; 
+} 
